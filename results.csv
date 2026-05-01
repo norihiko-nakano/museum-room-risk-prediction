@@ -1,0 +1,3 @@
+﻿model,accuracy,precision,recall
+Model 1: Visitor Count Only,0.6777777777777778,0.4444444444444444,0.14285714285714285
+Model 2: Visitor Count + Room ID,0.7555555555555555,0.6363636363636364,0.5

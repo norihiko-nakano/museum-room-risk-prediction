@@ -1,0 +1,301 @@
+﻿record_id,room_id,room_name,visitor_count,actual_incident
+1,D,Museum Shop,97,0
+2,B,Painting Gallery,87,1
+3,C,Sculpture Room,92,1
+4,E,Special Exhibition Room,6,0
+5,B,Painting Gallery,68,0
+6,D,Museum Shop,64,0
+7,C,Sculpture Room,59,0
+8,E,Special Exhibition Room,77,1
+9,D,Museum Shop,93,0
+10,D,Museum Shop,75,0
+11,C,Sculpture Room,82,0
+12,B,Painting Gallery,8,0
+13,B,Painting Gallery,94,1
+14,D,Museum Shop,66,0
+15,E,Special Exhibition Room,86,0
+16,D,Museum Shop,45,0
+17,E,Special Exhibition Room,69,1
+18,C,Sculpture Room,85,1
+19,C,Sculpture Room,37,0
+20,D,Museum Shop,11,0
+21,D,Museum Shop,38,0
+22,E,Special Exhibition Room,48,0
+23,C,Sculpture Room,39,1
+24,A,Entrance Hall,9,0
+25,C,Sculpture Room,13,0
+26,C,Sculpture Room,67,0
+27,A,Entrance Hall,56,0
+28,E,Special Exhibition Room,19,1
+29,D,Museum Shop,17,0
+30,B,Painting Gallery,46,1
+31,A,Entrance Hall,10,0
+32,C,Sculpture Room,96,1
+33,A,Entrance Hall,5,0
+34,A,Entrance Hall,7,0
+35,C,Sculpture Room,13,1
+36,C,Sculpture Room,36,0
+37,A,Entrance Hall,56,1
+38,B,Painting Gallery,7,0
+39,A,Entrance Hall,60,0
+40,E,Special Exhibition Room,100,0
+41,C,Sculpture Room,6,0
+42,D,Museum Shop,59,0
+43,C,Sculpture Room,21,0
+44,C,Sculpture Room,20,1
+45,D,Museum Shop,63,0
+46,C,Sculpture Room,23,0
+47,D,Museum Shop,37,0
+48,C,Sculpture Room,96,0
+49,B,Painting Gallery,27,0
+50,B,Painting Gallery,64,0
+51,A,Entrance Hall,52,0
+52,A,Entrance Hall,23,0
+53,C,Sculpture Room,24,1
+54,C,Sculpture Room,76,0
+55,D,Museum Shop,93,0
+56,E,Special Exhibition Room,45,0
+57,D,Museum Shop,37,0
+58,C,Sculpture Room,21,0
+59,D,Museum Shop,63,0
+60,E,Special Exhibition Room,55,0
+61,C,Sculpture Room,31,0
+62,A,Entrance Hall,73,0
+63,C,Sculpture Room,8,0
+64,D,Museum Shop,34,1
+65,E,Special Exhibition Room,10,1
+66,C,Sculpture Room,64,0
+67,E,Special Exhibition Room,89,1
+68,B,Painting Gallery,29,0
+69,B,Painting Gallery,71,0
+70,B,Painting Gallery,31,0
+71,B,Painting Gallery,21,0
+72,B,Painting Gallery,54,0
+73,E,Special Exhibition Room,64,0
+74,A,Entrance Hall,12,0
+75,D,Museum Shop,91,0
+76,C,Sculpture Room,29,0
+77,E,Special Exhibition Room,26,0
+78,C,Sculpture Room,64,1
+79,E,Special Exhibition Room,64,1
+80,E,Special Exhibition Room,100,1
+81,C,Sculpture Room,59,1
+82,B,Painting Gallery,59,0
+83,B,Painting Gallery,66,0
+84,B,Painting Gallery,5,0
+85,A,Entrance Hall,5,0
+86,D,Museum Shop,30,0
+87,E,Special Exhibition Room,90,1
+88,B,Painting Gallery,94,1
+89,D,Museum Shop,37,0
+90,E,Special Exhibition Room,38,0
+91,B,Painting Gallery,23,0
+92,D,Museum Shop,20,0
+93,B,Painting Gallery,96,1
+94,B,Painting Gallery,39,0
+95,A,Entrance Hall,65,0
+96,A,Entrance Hall,44,0
+97,D,Museum Shop,33,0
+98,B,Painting Gallery,78,1
+99,B,Painting Gallery,11,0
+100,E,Special Exhibition Room,40,0
+101,E,Special Exhibition Room,40,0
+102,A,Entrance Hall,40,0
+103,E,Special Exhibition Room,16,0
+104,A,Entrance Hall,34,0
+105,D,Museum Shop,93,0
+106,D,Museum Shop,65,1
+107,D,Museum Shop,13,0
+108,C,Sculpture Room,20,0
+109,C,Sculpture Room,16,1
+110,A,Entrance Hall,43,0
+111,B,Painting Gallery,62,0
+112,E,Special Exhibition Room,79,1
+113,D,Museum Shop,13,0
+114,E,Special Exhibition Room,44,1
+115,B,Painting Gallery,31,0
+116,C,Sculpture Room,12,0
+117,A,Entrance Hall,90,0
+118,C,Sculpture Room,78,0
+119,C,Sculpture Room,49,1
+120,D,Museum Shop,76,0
+121,A,Entrance Hall,43,1
+122,D,Museum Shop,29,0
+123,E,Special Exhibition Room,10,0
+124,E,Special Exhibition Room,79,0
+125,D,Museum Shop,23,0
+126,A,Entrance Hall,58,0
+127,A,Entrance Hall,79,0
+128,B,Painting Gallery,96,1
+129,B,Painting Gallery,64,1
+130,C,Sculpture Room,67,1
+131,A,Entrance Hall,88,0
+132,C,Sculpture Room,10,1
+133,E,Special Exhibition Room,51,1
+134,A,Entrance Hall,69,0
+135,A,Entrance Hall,15,0
+136,C,Sculpture Room,53,0
+137,B,Painting Gallery,5,0
+138,C,Sculpture Room,57,1
+139,E,Special Exhibition Room,41,0
+140,A,Entrance Hall,5,0
+141,E,Special Exhibition Room,8,1
+142,D,Museum Shop,99,0
+143,B,Painting Gallery,38,0
+144,A,Entrance Hall,58,1
+145,C,Sculpture Room,61,1
+146,E,Special Exhibition Room,89,1
+147,C,Sculpture Room,55,0
+148,B,Painting Gallery,86,1
+149,C,Sculpture Room,55,1
+150,D,Museum Shop,34,0
+151,C,Sculpture Room,85,1
+152,E,Special Exhibition Room,38,1
+153,B,Painting Gallery,81,1
+154,A,Entrance Hall,27,0
+155,C,Sculpture Room,20,0
+156,C,Sculpture Room,100,1
+157,E,Special Exhibition Room,36,0
+158,E,Special Exhibition Room,86,1
+159,E,Special Exhibition Room,26,0
+160,B,Painting Gallery,49,0
+161,B,Painting Gallery,51,1
+162,E,Special Exhibition Room,85,1
+163,A,Entrance Hall,12,0
+164,B,Painting Gallery,32,0
+165,B,Painting Gallery,30,0
+166,D,Museum Shop,22,0
+167,C,Sculpture Room,19,0
+168,A,Entrance Hall,21,0
+169,B,Painting Gallery,48,0
+170,B,Painting Gallery,71,0
+171,B,Painting Gallery,90,1
+172,C,Sculpture Room,46,1
+173,D,Museum Shop,30,0
+174,E,Special Exhibition Room,37,1
+175,E,Special Exhibition Room,74,0
+176,A,Entrance Hall,7,0
+177,E,Special Exhibition Room,40,1
+178,A,Entrance Hall,98,0
+179,C,Sculpture Room,66,1
+180,C,Sculpture Room,49,0
+181,B,Painting Gallery,72,0
+182,A,Entrance Hall,94,0
+183,E,Special Exhibition Room,15,0
+184,B,Painting Gallery,14,0
+185,B,Painting Gallery,48,0
+186,E,Special Exhibition Room,77,0
+187,C,Sculpture Room,19,0
+188,A,Entrance Hall,73,0
+189,D,Museum Shop,54,1
+190,D,Museum Shop,39,0
+191,D,Museum Shop,68,0
+192,D,Museum Shop,34,0
+193,E,Special Exhibition Room,9,1
+194,A,Entrance Hall,46,0
+195,C,Sculpture Room,42,0
+196,A,Entrance Hall,70,0
+197,C,Sculpture Room,43,0
+198,E,Special Exhibition Room,37,1
+199,C,Sculpture Room,40,1
+200,D,Museum Shop,90,1
+201,E,Special Exhibition Room,78,1
+202,D,Museum Shop,92,0
+203,E,Special Exhibition Room,12,1
+204,B,Painting Gallery,31,0
+205,C,Sculpture Room,40,0
+206,C,Sculpture Room,78,1
+207,B,Painting Gallery,50,0
+208,B,Painting Gallery,93,1
+209,D,Museum Shop,47,0
+210,E,Special Exhibition Room,76,1
+211,A,Entrance Hall,96,0
+212,A,Entrance Hall,90,1
+213,A,Entrance Hall,50,0
+214,A,Entrance Hall,5,0
+215,C,Sculpture Room,44,1
+216,B,Painting Gallery,56,0
+217,B,Painting Gallery,45,1
+218,B,Painting Gallery,11,0
+219,B,Painting Gallery,95,0
+220,C,Sculpture Room,58,1
+221,D,Museum Shop,74,0
+222,B,Painting Gallery,89,1
+223,A,Entrance Hall,88,1
+224,E,Special Exhibition Room,53,0
+225,E,Special Exhibition Room,98,0
+226,E,Special Exhibition Room,53,1
+227,C,Sculpture Room,22,0
+228,D,Museum Shop,98,0
+229,D,Museum Shop,5,0
+230,B,Painting Gallery,78,1
+231,B,Painting Gallery,91,1
+232,C,Sculpture Room,92,1
+233,E,Special Exhibition Room,76,1
+234,A,Entrance Hall,96,0
+235,B,Painting Gallery,39,1
+236,C,Sculpture Room,20,0
+237,E,Special Exhibition Room,58,0
+238,B,Painting Gallery,11,0
+239,E,Special Exhibition Room,23,0
+240,E,Special Exhibition Room,24,1
+241,B,Painting Gallery,71,0
+242,A,Entrance Hall,57,0
+243,D,Museum Shop,90,0
+244,C,Sculpture Room,91,1
+245,A,Entrance Hall,85,0
+246,A,Entrance Hall,26,0
+247,D,Museum Shop,30,0
+248,C,Sculpture Room,74,0
+249,E,Special Exhibition Room,46,0
+250,A,Entrance Hall,80,0
+251,B,Painting Gallery,90,1
+252,A,Entrance Hall,57,0
+253,E,Special Exhibition Room,21,0
+254,B,Painting Gallery,58,0
+255,C,Sculpture Room,57,0
+256,C,Sculpture Room,40,0
+257,C,Sculpture Room,58,0
+258,E,Special Exhibition Room,60,1
+259,D,Museum Shop,24,0
+260,C,Sculpture Room,77,0
+261,E,Special Exhibition Room,77,1
+262,C,Sculpture Room,46,0
+263,C,Sculpture Room,7,1
+264,A,Entrance Hall,65,0
+265,A,Entrance Hall,59,1
+266,C,Sculpture Room,12,0
+267,A,Entrance Hall,91,1
+268,B,Painting Gallery,93,1
+269,C,Sculpture Room,30,0
+270,A,Entrance Hall,27,0
+271,B,Painting Gallery,11,1
+272,E,Special Exhibition Room,86,1
+273,D,Museum Shop,43,0
+274,C,Sculpture Room,64,0
+275,C,Sculpture Room,41,0
+276,A,Entrance Hall,8,0
+277,A,Entrance Hall,17,0
+278,B,Painting Gallery,59,0
+279,B,Painting Gallery,34,0
+280,D,Museum Shop,33,0
+281,E,Special Exhibition Room,66,1
+282,A,Entrance Hall,14,0
+283,D,Museum Shop,9,0
+284,B,Painting Gallery,66,0
+285,A,Entrance Hall,57,0
+286,D,Museum Shop,16,0
+287,E,Special Exhibition Room,65,0
+288,C,Sculpture Room,66,1
+289,A,Entrance Hall,75,0
+290,E,Special Exhibition Room,78,1
+291,A,Entrance Hall,94,0
+292,A,Entrance Hall,13,0
+293,B,Painting Gallery,65,0
+294,A,Entrance Hall,92,1
+295,C,Sculpture Room,17,0
+296,E,Special Exhibition Room,15,1
+297,C,Sculpture Room,96,0
+298,B,Painting Gallery,13,0
+299,A,Entrance Hall,9,0
+300,C,Sculpture Room,9,0
